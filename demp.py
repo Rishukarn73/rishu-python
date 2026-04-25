@@ -17,4 +17,5 @@ target=8
 rishu= recursion_binary_search(arr,target)
 print("index", rishu)
 print("xyz")
+print(2+5)
 
